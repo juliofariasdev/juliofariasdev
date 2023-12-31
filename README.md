@@ -35,4 +35,8 @@
   <img align='center' alt='PYCHARM' src ='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white'>
   <img align='center' alt='GIT' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 </div>
+
+## Projeto atual
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliofariasdev&repo=meu_conhecimento&theme=apprentice)](https://github.com/juliofariasdev/meu_conhecimento)
 </div>
