@@ -10,16 +10,16 @@
 
 ## 👨‍💻 Tecnologias com quais tenho exepriência
 
-<div style='display: inline_block' ><br>
-  <img align='center'  alt='PYTHON' src ='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-</div><br>
-
 <div align="center" style="text-align: center ; " >
   <a href="https://github.com/juliofariasdev">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=juliofariasdev&show_icons=true&theme=apprentice&include_all_commits=true&count_private=false"/>
   <img margin-left="5px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofariasdev&layout=compact&langs_count=5&theme=apprentice"/>
   <a/>
 </div>
+
+<div style='display: inline_block' ><br>
+  <img align='center'  alt='PYTHON' src ='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+</div><br>
 
 ## 🌱 Estudando atualmente
 
