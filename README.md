@@ -1,7 +1,7 @@
 <div align = 'center' style="text-align: center ; ">
 <img src='https://capsule-render.vercel.app/api?type=waving&color=33ff33&height=120&section=header'> 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=10000&color=ffffff&center=true&vCenter=true&random=false&size=20&width=1300&lines=HELLO+WORLD!+%F0%9F%8C%8E+ME+CHAMO+JULIO+%F0%9F%91%8B)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=10000&color=ffffff&center=true&vCenter=true&random=false&size=30&width=1300&lines=HELLO+WORLD!%F0%9F%8C%8E+ME+CHAMO+JULIO+%F0%9F%91%8B)
 
  
 🖥️ 2/3 Téc. Informática - Integrado Ao Médio
