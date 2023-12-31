@@ -16,7 +16,7 @@
 
 <div align="center" style="text-align: center ; " >
   <a href="https://github.com/juliofariasdev">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=juliofariasdev&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=juliofariasdev&show_icons=true&theme=apprentice&include_all_commits=true&count_private=false"/>
   <img margin-left="5px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofariasdev&layout=compact&langs_count=5&theme=apprentice"/>
   <a/>
 </div>
@@ -36,7 +36,7 @@
   <img align='center' alt='GIT' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 </div>
 
-## Projeto atual
+## 🏗️ Projeto atual
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliofariasdev&repo=conhecimento&theme=apprentice)](https://github.com/juliofariasdev/conhecimento)
 
