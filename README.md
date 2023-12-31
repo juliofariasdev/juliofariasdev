@@ -40,5 +40,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliofariasdev&repo=conhecimento&theme=apprentice)](https://github.com/juliofariasdev/conhecimento)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juliofariasdev&theme=apprentice&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliofariasdev&theme=apprentice&hide_border=true&locale=pt_BR)](https://github.com/juliofariasdev?tab=repositories)
 </div>
