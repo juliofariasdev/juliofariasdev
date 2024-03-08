@@ -42,9 +42,6 @@
 
 ## 🏗️ Projeto atual
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliofariasdev&repo=conhecimento&theme=apprentice)](https://github.com/juliofariasdev/conhecimento)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliofariasdev&repo=projeto_integrador&theme=apprentice)](https://github.com/juliofariasdev/projeto_integrador)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juliofariasdev&theme=apprentice&hide_border=true&locale=pt_BR)](https://github.com/juliofariasdev?tab=repositories)
-
-![](https://komarev.com/ghpvc/?username=juliofariasdev)
 </div>
