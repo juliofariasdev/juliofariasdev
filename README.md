@@ -8,7 +8,7 @@
   
 📖 Do ramo de exatas
 
-## 👨‍💻 Tecnologias com quais tenho exepriência
+## 👨‍💻 Tecnologias com quais tenho experiência
 
 
 <div style='display: inline_block' ><br>
